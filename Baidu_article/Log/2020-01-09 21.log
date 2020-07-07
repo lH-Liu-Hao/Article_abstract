@@ -1,0 +1,3 @@
+2020-01-09 21:50:01.435 | ERROR    | Get_baidu_article.py:__main__:get_article_html:177 - 请求该url-https://www.takefoto.cn/viewnews-2001356.html的详情页出错，状态码-404
+2020-01-09 21:50:01.437 | ERROR    | Get_baidu_article.py:__main__:run:353 - 没有正确获得data
+2020-01-09 21:50:01.438 | INFO     | Get_baidu_article.py:__main__:<module>:384 - 数据--""

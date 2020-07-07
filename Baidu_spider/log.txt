@@ -1,0 +1,500 @@
+2019-09-29 10:50:05,047,root,INFO,Baidu_base_spider.py:126:    正在请求第1页......
+2019-09-29 10:50:05,931,root,INFO,Baidu_base_spider.py:106:    第1页请求成功的详情数量--10条
+2019-09-29 10:50:05,931,root,INFO,Baidu_base_spider.py:107:    第1页请求失败的详情数量--0条
+2019-09-29 10:50:05,932,root,INFO,Baidu_base_spider.py:110:    前1页请求成功的总详情数量--10条
+2019-09-29 10:50:05,932,root,INFO,Baidu_base_spider.py:111:    前1页请求失败的总详情数量--0条
+2019-09-29 10:50:05,932,root,INFO,Baidu_base_spider.py:137:    请求第1页完成
+2019-09-29 10:50:05,937,root,INFO,Baidu_base_spider.py:126:    正在请求第2页......
+2019-09-29 10:50:06,768,root,INFO,Baidu_base_spider.py:106:    第2页请求成功的详情数量--10条
+2019-09-29 10:50:06,769,root,INFO,Baidu_base_spider.py:107:    第2页请求失败的详情数量--0条
+2019-09-29 10:50:06,769,root,INFO,Baidu_base_spider.py:110:    前2页请求成功的总详情数量--20条
+2019-09-29 10:50:06,769,root,INFO,Baidu_base_spider.py:111:    前2页请求失败的总详情数量--0条
+2019-09-29 10:50:06,770,root,INFO,Baidu_base_spider.py:137:    请求第2页完成
+2019-09-29 10:50:06,774,root,INFO,Baidu_base_spider.py:126:    正在请求第3页......
+2019-09-29 10:50:07,758,root,INFO,Baidu_base_spider.py:106:    第3页请求成功的详情数量--10条
+2019-09-29 10:50:07,758,root,INFO,Baidu_base_spider.py:107:    第3页请求失败的详情数量--0条
+2019-09-29 10:50:07,758,root,INFO,Baidu_base_spider.py:110:    前3页请求成功的总详情数量--30条
+2019-09-29 10:50:07,758,root,INFO,Baidu_base_spider.py:111:    前3页请求失败的总详情数量--0条
+2019-09-29 10:50:07,759,root,INFO,Baidu_base_spider.py:137:    请求第3页完成
+2019-09-29 10:50:07,767,root,INFO,Baidu_base_spider.py:126:    正在请求第4页......
+2019-09-29 10:50:08,622,root,INFO,Baidu_base_spider.py:106:    第4页请求成功的详情数量--10条
+2019-09-29 10:50:08,622,root,INFO,Baidu_base_spider.py:107:    第4页请求失败的详情数量--0条
+2019-09-29 10:50:08,622,root,INFO,Baidu_base_spider.py:110:    前4页请求成功的总详情数量--40条
+2019-09-29 10:50:08,622,root,INFO,Baidu_base_spider.py:111:    前4页请求失败的总详情数量--0条
+2019-09-29 10:50:08,628,root,INFO,Baidu_base_spider.py:137:    请求第4页完成
+2019-09-29 10:50:08,631,root,INFO,Baidu_base_spider.py:126:    正在请求第5页......
+2019-09-29 10:50:09,469,root,INFO,Baidu_base_spider.py:106:    第5页请求成功的详情数量--10条
+2019-09-29 10:50:09,469,root,INFO,Baidu_base_spider.py:107:    第5页请求失败的详情数量--0条
+2019-09-29 10:50:09,469,root,INFO,Baidu_base_spider.py:110:    前5页请求成功的总详情数量--50条
+2019-09-29 10:50:09,470,root,INFO,Baidu_base_spider.py:111:    前5页请求失败的总详情数量--0条
+2019-09-29 10:50:09,470,root,INFO,Baidu_base_spider.py:137:    请求第5页完成
+2019-09-29 10:50:09,473,root,INFO,Baidu_base_spider.py:126:    正在请求第6页......
+2019-09-29 17:34:42,406,root,INFO,Baidu_base_spider.py:213:    正在请求第10页......
+2019-09-29 17:44:06,140,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:44:49,241,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:45:44,639,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:46:02,186,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:47:23,230,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:48:02,735,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:48:02,735,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--_request() got an unexpected keyword argument 'verify'
+2019-09-29 17:48:02,735,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 17:48:02,735,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--_request() got an unexpected keyword argument 'verify'--跳过此页
+2019-09-29 17:48:02,735,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 17:49:13,402,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:49:13,403,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--_request() got an unexpected keyword argument 'verify'
+2019-09-29 17:49:13,403,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 17:49:13,403,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--_request() got an unexpected keyword argument 'verify'--跳过此页
+2019-09-29 17:49:13,403,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 17:49:48,039,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 17:49:48,039,root,INFO,Baidu_base_spider.py:197:    实际请求第1页完成
+2019-09-29 17:50:10,229,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 17:50:10,229,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--_request() got an unexpected keyword argument 'verify'
+2019-09-29 17:50:10,229,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 17:50:10,229,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--_request() got an unexpected keyword argument 'verify'--跳过此页
+2019-09-29 17:50:10,229,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 17:51:02,155,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 17:51:02,155,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--_request() got an unexpected keyword argument 'verify'
+2019-09-29 17:51:02,155,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 17:51:02,155,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--_request() got an unexpected keyword argument 'verify'--跳过此页
+2019-09-29 17:51:02,155,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 17:52:22,750,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:52:22,750,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--_request() got an unexpected keyword argument 'proxies'
+2019-09-29 17:52:22,750,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 17:52:22,750,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--_request() got an unexpected keyword argument 'proxies'--跳过此页
+2019-09-29 17:52:22,751,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 17:58:01,707,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 17:58:01,742,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 17:58:01,742,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 17:58:01,742,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 17:58:01,743,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 17:59:27,263,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 17:59:27,270,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 17:59:27,270,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 17:59:27,270,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 17:59:27,270,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 18:02:46,409,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 18:02:46,415,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:02:46,415,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 18:02:46,416,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:02:46,416,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 18:03:10,106,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 18:03:10,112,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:03:10,112,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 18:03:10,113,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:03:10,113,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 18:04:39,202,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 18:04:39,209,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:04:39,209,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 18:04:39,209,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:04:39,209,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 18:04:47,803,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 18:04:47,810,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:04:47,810,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 18:04:47,811,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:04:47,811,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 18:05:29,753,root,INFO,Baidu_base_spider.py:214:    正在请求第10页......
+2019-09-29 18:05:29,760,root,INFO,Baidu_base_spider.py:189:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:05:29,760,root,INFO,Baidu_base_spider.py:190:    进行第10页重试
+2019-09-29 18:05:29,760,root,INFO,Baidu_base_spider.py:194:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:05:29,760,root,INFO,Baidu_base_spider.py:196:    实际请求第10页完成
+2019-09-29 18:05:29,760,root,INFO,Baidu_base_spider.py:229:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-29 18:08:12,811,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 18:08:12,818,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=10101010101010101010--错误原因--Constructor parameter should be str
+2019-09-29 18:08:12,818,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 18:08:12,818,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:08:12,818,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 18:08:12,818,root,INFO,Baidu_base_spider.py:230:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-29 18:48:11,164,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 18:48:11,171,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=10101010101010101010--错误原因--Constructor parameter should be str
+2019-09-29 18:48:11,172,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 18:48:11,172,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:48:11,172,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 18:48:11,173,root,INFO,Baidu_base_spider.py:230:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-29 18:48:52,224,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-29 18:48:52,230,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-29 18:48:52,230,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-29 18:48:52,231,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-29 18:48:52,231,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-29 18:48:52,231,root,INFO,Baidu_base_spider.py:230:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-30 09:25:16,191,root,INFO,Baidu_base_spider.py:230:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:215:    正在请求第10页......
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:190:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:191:    进行第10页重试
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:195:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:197:    实际请求第10页完成
+2019-09-30 09:28:20,005,root,INFO,Baidu_base_spider.py:233:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:29:35,678,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 09:29:35,693,root,INFO,Baidu_base_spider.py:191:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:29:35,693,root,INFO,Baidu_base_spider.py:192:    进行第10页重试
+2019-09-30 09:29:35,693,root,INFO,Baidu_base_spider.py:196:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:29:35,693,root,INFO,Baidu_base_spider.py:198:    实际请求第10页完成
+2019-09-30 09:29:35,693,root,INFO,Baidu_base_spider.py:234:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:30:20,770,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 09:30:20,786,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:30:20,786,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 09:30:20,786,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:30:20,786,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 09:30:20,786,root,INFO,Baidu_base_spider.py:235:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:34:56,302,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 09:37:57,676,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 09:37:57,692,root,INFO,Baidu_base_spider.py:191:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:37:57,692,root,INFO,Baidu_base_spider.py:192:    进行第10页重试
+2019-09-30 09:37:57,692,root,INFO,Baidu_base_spider.py:196:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:37:57,692,root,INFO,Baidu_base_spider.py:198:    实际请求第10页完成
+2019-09-30 09:37:57,692,root,INFO,Baidu_base_spider.py:234:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:38:08,956,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 09:41:48,552,root,INFO,Baidu_base_spider.py:191:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:41:54,895,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 09:42:03,129,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--Constructor parameter should be str
+2019-09-30 09:42:03,129,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 09:42:05,971,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--Constructor parameter should be str--跳过此页
+2019-09-30 09:42:05,971,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 09:42:05,971,root,INFO,Baidu_base_spider.py:235:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:194:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--local variable 'res' referenced before assignment
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:195:    进行第10页重试
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:199:    请求第10页仍然失败--错误原因--local variable 'res' referenced before assignment--跳过此页
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:201:    实际请求第10页完成
+2019-09-30 09:43:29,239,root,INFO,Baidu_base_spider.py:237:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:45:42,234,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:45:42,254,root,INFO,Baidu_base_spider.py:194:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--local variable 'res' referenced before assignment
+2019-09-30 09:45:42,254,root,INFO,Baidu_base_spider.py:195:    进行第10页重试
+2019-09-30 09:45:42,255,root,INFO,Baidu_base_spider.py:199:    请求第10页仍然失败--错误原因--local variable 'res' referenced before assignment--跳过此页
+2019-09-30 09:45:42,255,root,INFO,Baidu_base_spider.py:201:    实际请求第10页完成
+2019-09-30 09:45:42,256,root,INFO,Baidu_base_spider.py:237:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:45:50,082,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:45:50,089,root,INFO,Baidu_base_spider.py:194:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--local variable 'res' referenced before assignment
+2019-09-30 09:45:50,089,root,INFO,Baidu_base_spider.py:195:    进行第10页重试
+2019-09-30 09:45:50,090,root,INFO,Baidu_base_spider.py:199:    请求第10页仍然失败--错误原因--local variable 'res' referenced before assignment--跳过此页
+2019-09-30 09:45:50,090,root,INFO,Baidu_base_spider.py:201:    实际请求第10页完成
+2019-09-30 09:45:50,090,root,INFO,Baidu_base_spider.py:237:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:45:54,047,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:53:21,360,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:53:21,714,root,INFO,Baidu_base_spider.py:90:    该关键词的实际页数只有1页
+2019-09-30 09:53:21,715,root,INFO,Baidu_base_spider.py:93:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 09:53:21,715,root,INFO,Baidu_base_spider.py:94:    将返回实际页数的最后一页内容
+2019-09-30 09:53:21,779,root,INFO,Baidu_base_spider.py:146:    第1页请求成功的详情数量--0条
+2019-09-30 09:53:21,780,root,INFO,Baidu_base_spider.py:147:    第1页请求失败的详情数量--0条
+2019-09-30 09:53:21,780,root,INFO,Baidu_base_spider.py:150:    前1页请求成功的总详情数量--0条
+2019-09-30 09:53:21,780,root,INFO,Baidu_base_spider.py:151:    前1页请求失败的总详情数量--0条
+2019-09-30 09:53:21,781,root,INFO,Baidu_base_spider.py:201:    实际请求第1页完成
+2019-09-30 09:53:21,781,root,INFO,Baidu_base_spider.py:237:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:54:59,843,root,INFO,Baidu_base_spider.py:220:    正在请求第10页......
+2019-09-30 09:55:00,154,root,INFO,Baidu_base_spider.py:91:    该关键词的实际页数只有1页
+2019-09-30 09:55:00,154,root,INFO,Baidu_base_spider.py:94:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 09:55:00,154,root,INFO,Baidu_base_spider.py:95:    将返回实际页数的最后一页内容
+2019-09-30 09:55:00,220,root,INFO,Baidu_base_spider.py:147:    第1页请求成功的详情数量--0条
+2019-09-30 09:55:00,220,root,INFO,Baidu_base_spider.py:148:    第1页请求失败的详情数量--0条
+2019-09-30 09:55:00,220,root,INFO,Baidu_base_spider.py:151:    前1页请求成功的总详情数量--0条
+2019-09-30 09:55:00,220,root,INFO,Baidu_base_spider.py:152:    前1页请求失败的总详情数量--0条
+2019-09-30 09:55:00,220,root,INFO,Baidu_base_spider.py:202:    实际请求第1页完成
+2019-09-30 09:55:00,221,root,INFO,Baidu_base_spider.py:238:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 09:55:51,255,root,INFO,Baidu_base_spider.py:219:    正在请求第10页......
+2019-09-30 09:55:52,495,root,INFO,Baidu_base_spider.py:146:    第10页请求成功的详情数量--10条
+2019-09-30 09:55:52,495,root,INFO,Baidu_base_spider.py:147:    第10页请求失败的详情数量--0条
+2019-09-30 09:55:52,496,root,INFO,Baidu_base_spider.py:150:    前10页请求成功的总详情数量--10条
+2019-09-30 09:55:52,496,root,INFO,Baidu_base_spider.py:151:    前10页请求失败的总详情数量--0条
+2019-09-30 09:55:52,496,root,INFO,Baidu_base_spider.py:201:    实际请求第10页完成
+2019-09-30 09:55:52,499,root,INFO,Baidu_base_spider.py:237:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:06:39,660,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:06:40,782,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--http://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'>' not supported between instances of 'str' and 'int'
+2019-09-30 10:06:40,782,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 10:06:40,965,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'>' not supported between instances of 'str' and 'int'--跳过此页
+2019-09-30 10:06:40,966,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:06:40,966,root,INFO,Baidu_base_spider.py:239:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:09:15,655,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:10:53,166,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--http://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'>' not supported between instances of 'str' and 'int'
+2019-09-30 10:10:53,166,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 10:10:53,946,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'>' not supported between instances of 'str' and 'int'--跳过此页
+2019-09-30 10:10:53,947,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:10:53,947,root,INFO,Baidu_base_spider.py:239:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:12:17,015,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:12:17,226,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--http://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'>' not supported between instances of 'str' and 'int'
+2019-09-30 10:12:17,227,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 10:12:17,433,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'>' not supported between instances of 'str' and 'int'--跳过此页
+2019-09-30 10:12:17,434,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:12:17,434,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:12:29,943,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:12:30,127,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--http://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'>' not supported between instances of 'str' and 'int'
+2019-09-30 10:12:30,127,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 10:12:30,270,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'>' not supported between instances of 'str' and 'int'--跳过此页
+2019-09-30 10:12:30,271,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:12:30,271,root,INFO,Baidu_base_spider.py:241:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:12:44,248,root,INFO,Baidu_base_spider.py:218:    正在请求第10页......
+2019-09-30 10:12:44,506,root,INFO,Baidu_base_spider.py:193:    请求第10页失败--url--http://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'>' not supported between instances of 'str' and 'int'
+2019-09-30 10:12:44,507,root,INFO,Baidu_base_spider.py:194:    进行第10页重试
+2019-09-30 10:12:44,689,root,INFO,Baidu_base_spider.py:198:    请求第10页仍然失败--错误原因--'>' not supported between instances of 'str' and 'int'--跳过此页
+2019-09-30 10:12:44,690,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 10:12:44,690,root,INFO,Baidu_base_spider.py:241:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:13:41,213,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:13:41,454,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:13:41,454,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:13:41,454,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:13:41,454,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:13:41,455,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:13:41,456,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:13:55,310,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:13:55,571,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:13:55,571,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:13:55,571,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:13:55,571,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:13:55,571,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:13:55,576,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:17:06,920,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:17:07,153,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:17:07,153,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:17:07,153,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:17:07,153,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:17:07,153,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:17:07,159,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:19:42,234,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:19:42,498,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:19:42,498,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:19:42,498,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:19:42,498,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:19:42,498,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:19:42,502,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:31:34,792,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:31:35,686,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:31:35,686,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:31:35,686,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:31:35,686,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:31:35,687,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:31:35,688,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:31:35,689,root,INFO,Baidu_base_spider.py:265:    所用时间0.897066593170166
+2019-09-30 10:33:07,375,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:33:08,210,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:33:08,211,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:33:08,211,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:33:08,211,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:33:08,211,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:33:08,212,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:33:08,213,root,INFO,Baidu_base_spider.py:266:    所用时间0.838799238204956
+2019-09-30 10:35:05,840,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:35:07,400,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:35:07,401,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:35:07,401,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:35:07,401,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:35:07,401,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:35:07,402,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:35:07,402,root,INFO,Baidu_base_spider.py:263:    所用时间1.562107801437378
+2019-09-30 10:35:20,510,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:35:20,756,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:35:20,757,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:35:20,757,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:35:20,757,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:35:20,757,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:35:20,759,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:35:20,760,root,INFO,Baidu_base_spider.py:263:    所用时间0.2501106262207031
+2019-09-30 10:36:12,855,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:36:13,035,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:36:13,035,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:36:13,035,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:36:13,036,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:36:13,036,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:36:13,042,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:36:13,042,root,INFO,Baidu_base_spider.py:263:    所用时间0.18719768524169922
+2019-09-30 10:36:26,984,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:36:37,433,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:36:37,671,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:36:37,671,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:36:37,671,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:36:37,672,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:36:37,672,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:36:37,674,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:36:37,675,root,INFO,Baidu_base_spider.py:263:    所用时间0.24158525466918945
+2019-09-30 10:36:57,650,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:36:57,852,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:36:57,852,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:36:57,852,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:36:57,852,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:36:57,853,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:36:57,856,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:36:57,857,root,INFO,Baidu_base_spider.py:266:    所用时间0.20690059661865234
+2019-09-30 10:37:27,779,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:37:28,004,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:37:28,004,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:37:28,004,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:37:28,004,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:37:28,005,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:37:28,009,root,INFO,Baidu_base_spider.py:240:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:37:28,010,root,INFO,Baidu_base_spider.py:268:    所用时间0.2303323745727539
+2019-09-30 10:39:39,117,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:39:40,292,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:39:40,292,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:39:40,292,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:39:40,292,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:39:40,293,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:39:40,295,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:39:40,295,root,INFO,Baidu_base_spider.py:255:    所用时间1.1780738830566406
+2019-09-30 10:39:45,397,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:39:45,883,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:39:45,884,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:39:45,884,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:39:45,884,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:39:45,884,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:39:45,887,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:39:45,887,root,INFO,Baidu_base_spider.py:255:    所用时间0.48989105224609375
+2019-09-30 10:41:26,937,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:41:27,402,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 10:41:27,402,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 10:41:27,402,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 10:41:27,402,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 10:41:27,403,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:41:27,408,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:41:27,409,root,INFO,Baidu_base_spider.py:255:    所用时间0.47087931632995605
+2019-09-30 10:41:48,504,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:41:49,713,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@14.112.78.191:28696', 'https': 'http://urun:urun2018@14.112.78.191:28696'}
+2019-09-30 10:41:49,727,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--local variable 'res' referenced before assignment
+2019-09-30 10:41:49,727,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 10:41:49,864,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@175.155.240.29:36321', 'https': 'http://urun:urun2018@175.155.240.29:36321'}
+2019-09-30 10:41:49,865,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--local variable 'res' referenced before assignment--跳过此页
+2019-09-30 10:41:49,865,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 10:41:49,865,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:41:49,866,root,INFO,Baidu_base_spider.py:255:    所用时间1.3619723320007324
+2019-09-30 10:43:28,851,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:43:28,988,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@119.142.78.75:35501', 'https': 'http://urun:urun2018@119.142.78.75:35501'}
+2019-09-30 10:43:29,494,root,INFO,Baidu_base_spider.py:89:    该关键词的实际页数只有1页
+2019-09-30 10:43:29,495,root,INFO,Baidu_base_spider.py:92:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 10:43:29,495,root,INFO,Baidu_base_spider.py:93:    将返回实际页数的最后一页内容
+2019-09-30 10:43:29,606,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@119.142.78.75:35501', 'https': 'http://urun:urun2018@119.142.78.75:35501'}
+2019-09-30 10:43:29,772,root,INFO,Baidu_base_spider.py:145:    第1页请求成功的详情数量--0条
+2019-09-30 10:43:29,772,root,INFO,Baidu_base_spider.py:146:    第1页请求失败的详情数量--0条
+2019-09-30 10:43:29,772,root,INFO,Baidu_base_spider.py:149:    前1页请求成功的总详情数量--0条
+2019-09-30 10:43:29,773,root,INFO,Baidu_base_spider.py:150:    前1页请求失败的总详情数量--0条
+2019-09-30 10:43:29,773,root,INFO,Baidu_base_spider.py:199:    实际请求第1页完成
+2019-09-30 10:43:29,773,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:43:29,773,root,INFO,Baidu_base_spider.py:255:    所用时间0.9213910102844238
+2019-09-30 10:44:25,326,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 10:44:25,425,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@183.164.230.82:29424', 'https': 'http://urun:urun2018@183.164.230.82:29424'}
+2019-09-30 10:44:26,218,root,INFO,Baidu_base_spider.py:89:    该关键词的实际页数只有1页
+2019-09-30 10:44:26,219,root,INFO,Baidu_base_spider.py:92:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 10:44:26,219,root,INFO,Baidu_base_spider.py:93:    将返回实际页数的最后一页内容
+2019-09-30 10:44:26,319,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@121.230.211.123:26265', 'https': 'http://urun:urun2018@121.230.211.123:26265'}
+2019-09-30 10:44:26,833,root,INFO,Baidu_base_spider.py:145:    第1页请求成功的详情数量--0条
+2019-09-30 10:44:26,834,root,INFO,Baidu_base_spider.py:146:    第1页请求失败的详情数量--0条
+2019-09-30 10:44:26,835,root,INFO,Baidu_base_spider.py:149:    前1页请求成功的总详情数量--0条
+2019-09-30 10:44:26,835,root,INFO,Baidu_base_spider.py:150:    前1页请求失败的总详情数量--0条
+2019-09-30 10:44:26,835,root,INFO,Baidu_base_spider.py:199:    实际请求第1页完成
+2019-09-30 10:44:26,836,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 10:44:26,836,root,INFO,Baidu_base_spider.py:255:    所用时间1.5092952251434326
+2019-09-30 10:45:03,297,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:45:03,416,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@14.115.204.19:56703', 'https': 'http://urun:urun2018@14.115.204.19:56703'}
+2019-09-30 10:45:05,001,root,INFO,Baidu_base_spider.py:146:    第10页请求成功的详情数量--10条
+2019-09-30 10:45:05,001,root,INFO,Baidu_base_spider.py:147:    第10页请求失败的详情数量--0条
+2019-09-30 10:45:05,001,root,INFO,Baidu_base_spider.py:150:    前10页请求成功的总详情数量--10条
+2019-09-30 10:45:05,001,root,INFO,Baidu_base_spider.py:151:    前10页请求失败的总详情数量--0条
+2019-09-30 10:45:05,002,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 10:45:05,004,root,INFO,Baidu_base_spider.py:228:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:45:05,004,root,INFO,Baidu_base_spider.py:256:    所用时间1.7067570686340332
+2019-09-30 10:45:40,701,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 10:45:40,895,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@175.155.246.120:45018', 'https': 'http://urun:urun2018@175.155.246.120:45018'}
+2019-09-30 10:45:43,623,root,INFO,Baidu_base_spider.py:146:    第10页请求成功的详情数量--10条
+2019-09-30 10:45:43,623,root,INFO,Baidu_base_spider.py:147:    第10页请求失败的详情数量--0条
+2019-09-30 10:45:43,623,root,INFO,Baidu_base_spider.py:150:    前10页请求成功的总详情数量--10条
+2019-09-30 10:45:43,623,root,INFO,Baidu_base_spider.py:151:    前10页请求失败的总详情数量--0条
+2019-09-30 10:45:43,624,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 10:45:43,626,root,INFO,Baidu_base_spider.py:228:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 10:45:43,626,root,INFO,Baidu_base_spider.py:256:    所用时间2.9247052669525146
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:218:    正在请求第10页......
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:194:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--This event loop is already running
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:195:    进行第10页重试
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:199:    请求第10页仍然失败--错误原因--This event loop is already running--跳过此页
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:201:    实际请求第10页完成
+2019-09-30 11:08:09,855,root,INFO,Baidu_base_spider.py:229:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:08:09,864,root,INFO,Baidu_base_spider.py:257:    所用时间0.009000062942504883
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:193:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--name 'get_adsl' is not defined
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:194:    进行第10页重试
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:198:    请求第10页仍然失败--错误原因--name 'get_adsl' is not defined--跳过此页
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 11:10:12,442,root,INFO,Baidu_base_spider.py:228:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:10:12,443,root,INFO,Baidu_base_spider.py:256:    所用时间0.001997232437133789
+2019-09-30 11:11:12,553,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 11:11:12,553,root,INFO,Baidu_base_spider.py:193:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--This event loop is already running
+2019-09-30 11:11:12,554,root,INFO,Baidu_base_spider.py:194:    进行第10页重试
+2019-09-30 11:11:12,554,root,INFO,Baidu_base_spider.py:198:    请求第10页仍然失败--错误原因--This event loop is already running--跳过此页
+2019-09-30 11:11:12,554,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 11:11:12,554,root,INFO,Baidu_base_spider.py:228:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:11:12,562,root,INFO,Baidu_base_spider.py:256:    所用时间0.008995294570922852
+2019-09-30 11:13:58,183,root,INFO,Baidu_base_spider.py:217:    正在请求第10页......
+2019-09-30 11:13:58,184,root,INFO,Baidu_base_spider.py:193:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--This event loop is already running
+2019-09-30 11:13:58,184,root,INFO,Baidu_base_spider.py:194:    进行第10页重试
+2019-09-30 11:13:58,184,root,INFO,Baidu_base_spider.py:198:    请求第10页仍然失败--错误原因--This event loop is already running--跳过此页
+2019-09-30 11:13:58,184,root,INFO,Baidu_base_spider.py:200:    实际请求第10页完成
+2019-09-30 11:13:58,184,root,INFO,Baidu_base_spider.py:228:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:13:58,193,root,INFO,Baidu_base_spider.py:256:    所用时间0.009537935256958008
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'coroutine' object is not subscriptable
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'coroutine' object is not subscriptable--跳过此页
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 11:23:38,211,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:23:39,295,root,INFO,Get_ADSL_Proxy.py:128:    获取代理成功...{'http': 'http://urun:urun2018@113.73.135.129:38906', 'https': 'http://urun:urun2018@113.73.135.129:38906'}
+2019-09-30 11:23:39,295,root,INFO,Baidu_base_spider.py:258:    所用时间1.0842711925506592
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:192:    请求第10页失败--url--https://www.baidu.com/s?ie=utf-8&cl=2&rtt=1&bsst=1&rsv_dl=news_b_pn&tn=news&wd=广州&medium=1&pn=100--错误原因--'coroutine' object is not subscriptable
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:193:    进行第10页重试
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:197:    请求第10页仍然失败--错误原因--'coroutine' object is not subscriptable--跳过此页
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 11:24:17,792,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:24:17,918,root,INFO,Get_ADSL_Proxy.py:128:    获取代理成功...{'http': 'http://urun:urun2018@175.155.240.78:58645', 'https': 'http://urun:urun2018@175.155.240.78:58645'}
+2019-09-30 11:24:17,918,root,INFO,Baidu_base_spider.py:258:    所用时间0.12560367584228516
+2019-09-30 11:32:31,860,root,INFO,Get_ADSL_Proxy.py:128:    获取代理成功...{'http': 'http://urun:urun2018@175.155.245.6:38801', 'https': 'http://urun:urun2018@175.155.245.6:38801'}
+2019-09-30 11:33:16,474,root,INFO,Get_ADSL_Proxy.py:128:    获取代理成功...{'http': 'http://urun:urun2018@222.77.10.225:26915', 'https': 'http://urun:urun2018@222.77.10.225:26915'}
+2019-09-30 11:34:18,693,root,INFO,Get_ADSL_Proxy.py:128:    获取代理成功...{'http': 'http://urun:urun2018@113.73.65.46:29719', 'https': 'http://urun:urun2018@113.73.65.46:29719'}
+2019-09-30 11:36:53,628,root,INFO,Get_ADSL_Proxy.py:127:    获取代理成功...{'http': 'http://urun:urun2018@121.230.210.184:39713', 'https': 'http://urun:urun2018@121.230.210.184:39713'}
+2019-09-30 11:37:22,641,root,INFO,Get_ADSL_Proxy.py:127:    获取代理成功...{'http': 'http://urun:urun2018@110.189.222.155:26132', 'https': 'http://urun:urun2018@110.189.222.155:26132'}
+2019-09-30 11:37:22,642,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:37:27,486,root,INFO,Baidu_base_spider.py:89:    该关键词的实际页数只有1页
+2019-09-30 11:37:27,487,root,INFO,Baidu_base_spider.py:92:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 11:37:27,487,root,INFO,Baidu_base_spider.py:93:    将返回实际页数的最后一页内容
+2019-09-30 11:37:34,043,root,INFO,Baidu_base_spider.py:145:    第1页请求成功的详情数量--0条
+2019-09-30 11:37:34,044,root,INFO,Baidu_base_spider.py:146:    第1页请求失败的详情数量--0条
+2019-09-30 11:37:34,044,root,INFO,Baidu_base_spider.py:149:    前1页请求成功的总详情数量--0条
+2019-09-30 11:37:34,044,root,INFO,Baidu_base_spider.py:150:    前1页请求失败的总详情数量--0条
+2019-09-30 11:37:34,044,root,INFO,Baidu_base_spider.py:199:    实际请求第1页完成
+2019-09-30 11:37:34,044,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:37:34,045,root,INFO,Baidu_base_spider.py:257:    所用时间11.40335464477539
+2019-09-30 11:38:10,598,root,INFO,Get_ADSL_Proxy.py:127:    获取代理成功...{'http': 'http://urun:urun2018@110.189.222.155:26132', 'https': 'http://urun:urun2018@110.189.222.155:26132'}
+2019-09-30 11:38:10,599,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:38:22,567,root,INFO,Baidu_base_spider.py:89:    该关键词的实际页数只有1页
+2019-09-30 11:38:22,567,root,INFO,Baidu_base_spider.py:92:    请求的页数大于搜索到关键词的实际页数---实际页数1
+2019-09-30 11:38:22,568,root,INFO,Baidu_base_spider.py:93:    将返回实际页数的最后一页内容
+2019-09-30 11:38:29,549,root,INFO,Baidu_base_spider.py:145:    第1页请求成功的详情数量--0条
+2019-09-30 11:38:29,549,root,INFO,Baidu_base_spider.py:146:    第1页请求失败的详情数量--0条
+2019-09-30 11:38:29,549,root,INFO,Baidu_base_spider.py:149:    前1页请求成功的总详情数量--0条
+2019-09-30 11:38:29,550,root,INFO,Baidu_base_spider.py:150:    前1页请求失败的总详情数量--0条
+2019-09-30 11:38:29,551,root,INFO,Baidu_base_spider.py:199:    实际请求第1页完成
+2019-09-30 11:38:29,551,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--0条
+2019-09-30 11:38:29,552,root,INFO,Baidu_base_spider.py:257:    所用时间18.952757596969604
+2019-09-30 11:41:12,032,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:41:12,123,root,INFO,Get_ADSL_Proxy.py:106:    获取代理成功...{'http': 'http://urun:urun2018@119.7.78.206:43269', 'https': 'http://urun:urun2018@119.7.78.206:43269'}
+2019-09-30 11:41:14,493,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 11:41:14,493,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 11:41:14,493,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 11:41:14,494,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 11:41:14,494,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 11:41:14,498,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 11:41:14,498,root,INFO,Baidu_base_spider.py:255:    所用时间2.467054843902588
+2019-09-30 11:41:28,220,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:41:29,170,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 11:41:29,170,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 11:41:29,170,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 11:41:29,170,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 11:41:29,170,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 11:41:29,176,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 11:41:29,177,root,INFO,Baidu_base_spider.py:255:    所用时间0.9570095539093018
+2019-09-30 11:41:33,052,root,INFO,Baidu_base_spider.py:216:    正在请求第10页......
+2019-09-30 11:41:33,510,root,INFO,Baidu_base_spider.py:145:    第10页请求成功的详情数量--10条
+2019-09-30 11:41:33,510,root,INFO,Baidu_base_spider.py:146:    第10页请求失败的详情数量--0条
+2019-09-30 11:41:33,510,root,INFO,Baidu_base_spider.py:149:    前10页请求成功的总详情数量--10条
+2019-09-30 11:41:33,510,root,INFO,Baidu_base_spider.py:150:    前10页请求失败的总详情数量--0条
+2019-09-30 11:41:33,511,root,INFO,Baidu_base_spider.py:199:    实际请求第10页完成
+2019-09-30 11:41:33,515,root,INFO,Baidu_base_spider.py:227:    百度_媒体网站--10页最终成功获取到的详情数量--10条
+2019-09-30 11:41:33,515,root,INFO,Baidu_base_spider.py:255:    所用时间0.4630608558654785

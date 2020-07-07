@@ -1,0 +1,85 @@
+2020-01-15 19:44:29.950 | ERROR    | Get_baidu_article.py:__main__:clean_time:294 - 获取该-http://www.edunews.net.cn/2020/hlw_0115/5618.html的详情页的时间为空
+2020-01-15 19:44:29.958 | ERROR    | Get_baidu_article.py:__main__:new_data:347 - 拼接新的data错误为空
+2020-01-15 19:44:29.959 | INFO     | Get_baidu_article.py:__main__:<module>:408 - 数据--{
+    "errors": {
+        "title": "长沙特训学校——实地考察《长沙睿智教育培训学校》后分享！",
+        "time": "",
+        "content": "\r\t\t\t\t\t\t\n    最近一直在关注国内的特训学校行业，社会各界，家长，还有很多青少年对特训学校的理解看法与认知和评价褒贬不一。而我抱着存在即价值，存在即合理的心理，认真客观的研究分析考察了这些学校。今天就来说说让我印象最深的长沙睿智教育培训学校。\r\n    小编认为评价一个学校主要是看;学校环境，师资力量，教育理念，社会口碑。\r\n    <img align=\"\" alt=\"C:UsersAdministratorDocumentsWeChat Filescong-cbtx1314FileStorageFile2020-01校园环境校园环境mmexport1534003644501.jpg\" src=\"http://img.danews.cc/upload/images/20200115/ab4691562aeaf309c281c563d2be0c6a.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    首先我们来说说学校环境;直接给大家上我前两天现场拍的照片吧(有图有真相。哈哈)\r\n    <img align=\"\" alt=\"IMG_20190603_124214\" src=\"http://img.danews.cc/upload/images/20200115/36f0d1376c06804c14d3a491b9ffa7b6.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    <img align=\"\" alt=\"IMG_20190603_124051\" src=\"http://img.danews.cc/upload/images/20200115/59dbb7862bf530bf6a6df242a4a1e622.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    (以上全部为手机现场真是拍摄。)\r\n    就学校环境这来来说，长沙睿智教育对我的震撼还是蛮大的，我走访了长沙的几家特训学校，卫生整洁，文化氛围，绿化配置，空间布局等等方面来说，睿智学校应该是这块表现最好的。感觉真的有点像部队的感觉，但是又带点人性，文化的因素。\r\n    接下来我们看看师资与理念这块。这块我主要是在网上看了下他们睿智学校的百度百科，毕竟百度百科还是比较官方与权威的。(针对这块小编截了个图)\r\n    <img align=\"\" alt=\"\" src=\"http://img.danews.cc/upload/images/20200115/76bb53687b924206e676f45ced360cb6.png\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    文化理念这块是仁者见仁智者见智的事情，我就不多说预评价吧。\r\n    <img align=\"\" alt=\"IMG_20190603_123628\" src=\"http://img.danews.cc/upload/images/20200115/19ad89e465dab96d4208d4d7e97dbb34.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r最后关于评价与口碑这块，我在他们学校的接待室里面拍了张照片，满墙的锦旗。还是有点震撼的。\r\n    我从学校出来后，又在网上查了下，整体来说睿智教育培训学校的口碑确实不错，网上没有任何负面的东西，正面积极的评价与认可。\r\n    以上是小编整理考察的一些分享，希望能对大家有用。不好说哪家好哪家不好，如果有这块的需要的话，多去考察下是可以的。就分享到这里吧!\r\t\t\r\t\t"
+    }
+}
+2020-01-15 19:44:44.875 | ERROR    | Get_baidu_article.py:__main__:clean_time:294 - 获取该-http://www.edunews.net.cn/2020/hlw_0115/5618.html的详情页的时间为空
+2020-01-15 19:44:44.884 | ERROR    | Get_baidu_article.py:__main__:new_data:347 - 拼接新的data错误为空
+2020-01-15 19:44:44.885 | INFO     | Get_baidu_article.py:__main__:<module>:408 - 数据--{
+    "errors": {
+        "title": "长沙特训学校——实地考察《长沙睿智教育培训学校》后分享！",
+        "time": "",
+        "content": "\r\t\t\t\t\t\t\n    最近一直在关注国内的特训学校行业，社会各界，家长，还有很多青少年对特训学校的理解看法与认知和评价褒贬不一。而我抱着存在即价值，存在即合理的心理，认真客观的研究分析考察了这些学校。今天就来说说让我印象最深的长沙睿智教育培训学校。\r\n    小编认为评价一个学校主要是看;学校环境，师资力量，教育理念，社会口碑。\r\n    <img align=\"\" alt=\"C:UsersAdministratorDocumentsWeChat Filescong-cbtx1314FileStorageFile2020-01校园环境校园环境mmexport1534003644501.jpg\" src=\"http://img.danews.cc/upload/images/20200115/ab4691562aeaf309c281c563d2be0c6a.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    首先我们来说说学校环境;直接给大家上我前两天现场拍的照片吧(有图有真相。哈哈)\r\n    <img align=\"\" alt=\"IMG_20190603_124214\" src=\"http://img.danews.cc/upload/images/20200115/36f0d1376c06804c14d3a491b9ffa7b6.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    <img align=\"\" alt=\"IMG_20190603_124051\" src=\"http://img.danews.cc/upload/images/20200115/59dbb7862bf530bf6a6df242a4a1e622.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    (以上全部为手机现场真是拍摄。)\r\n    就学校环境这来来说，长沙睿智教育对我的震撼还是蛮大的，我走访了长沙的几家特训学校，卫生整洁，文化氛围，绿化配置，空间布局等等方面来说，睿智学校应该是这块表现最好的。感觉真的有点像部队的感觉，但是又带点人性，文化的因素。\r\n    接下来我们看看师资与理念这块。这块我主要是在网上看了下他们睿智学校的百度百科，毕竟百度百科还是比较官方与权威的。(针对这块小编截了个图)\r\n    <img align=\"\" alt=\"\" src=\"http://img.danews.cc/upload/images/20200115/76bb53687b924206e676f45ced360cb6.png\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    文化理念这块是仁者见仁智者见智的事情，我就不多说预评价吧。\r\n    <img align=\"\" alt=\"IMG_20190603_123628\" src=\"http://img.danews.cc/upload/images/20200115/19ad89e465dab96d4208d4d7e97dbb34.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r最后关于评价与口碑这块，我在他们学校的接待室里面拍了张照片，满墙的锦旗。还是有点震撼的。\r\n    我从学校出来后，又在网上查了下，整体来说睿智教育培训学校的口碑确实不错，网上没有任何负面的东西，正面积极的评价与认可。\r\n    以上是小编整理考察的一些分享，希望能对大家有用。不好说哪家好哪家不好，如果有这块的需要的话，多去考察下是可以的。就分享到这里吧!\r\t\t\r\t\t"
+    }
+}
+2020-01-15 19:45:31.949 | INFO     | Get_baidu_article.py:__main__:<module>:408 - 数据--{
+    "total": 1,
+    "QTime": 0,
+    "start": 1,
+    "HTime": 0,
+    "page": 1,
+    "results": [
+        {
+            "ID": "5d550e3a7cf0185accaf007a753bcbbb",
+            "TaskID": 0,
+            "GroupID": 0,
+            "Name": "",
+            "SiteType": 1,
+            "Headline": 0,
+            "Overseas": 0,
+            "Url": "http://www.edunews.net.cn/2020/hlw_0115/5618.html",
+            "Title": "长沙特训学校——实地考察《长沙睿智教育培训学校》后分享！",
+            "Content": "\r\t\t\t\t\t\t\n    最近一直在关注国内的特训学校行业，社会各界，家长，还有很多青少年对特训学校的理解看法与认知和评价褒贬不一。而我抱着存在即价值，存在即合理的心理，认真客观的研究分析考察了这些学校。今天就来说说让我印象最深的长沙睿智教育培训学校。\r\n    小编认为评价一个学校主要是看;学校环境，师资力量，教育理念，社会口碑。\r\n    <img align=\"\" alt=\"C:UsersAdministratorDocumentsWeChat Filescong-cbtx1314FileStorageFile2020-01校园环境校园环境mmexport1534003644501.jpg\" src=\"http://img.danews.cc/upload/images/20200115/ab4691562aeaf309c281c563d2be0c6a.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    首先我们来说说学校环境;直接给大家上我前两天现场拍的照片吧(有图有真相。哈哈)\r\n    <img align=\"\" alt=\"IMG_20190603_124214\" src=\"http://img.danews.cc/upload/images/20200115/36f0d1376c06804c14d3a491b9ffa7b6.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    <img align=\"\" alt=\"IMG_20190603_124051\" src=\"http://img.danews.cc/upload/images/20200115/59dbb7862bf530bf6a6df242a4a1e622.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    (以上全部为手机现场真是拍摄。)\r\n    就学校环境这来来说，长沙睿智教育对我的震撼还是蛮大的，我走访了长沙的几家特训学校，卫生整洁，文化氛围，绿化配置，空间布局等等方面来说，睿智学校应该是这块表现最好的。感觉真的有点像部队的感觉，但是又带点人性，文化的因素。\r\n    接下来我们看看师资与理念这块。这块我主要是在网上看了下他们睿智学校的百度百科，毕竟百度百科还是比较官方与权威的。(针对这块小编截了个图)\r\n    <img align=\"\" alt=\"\" src=\"http://img.danews.cc/upload/images/20200115/76bb53687b924206e676f45ced360cb6.png\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n    文化理念这块是仁者见仁智者见智的事情，我就不多说预评价吧。\r\n    <img align=\"\" alt=\"IMG_20190603_123628\" src=\"http://img.danews.cc/upload/images/20200115/19ad89e465dab96d4208d4d7e97dbb34.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r最后关于评价与口碑这块，我在他们学校的接待室里面拍了张照片，满墙的锦旗。还是有点震撼的。\r\n    我从学校出来后，又在网上查了下，整体来说睿智教育培训学校的口碑确实不错，网上没有任何负面的东西，正面积极的评价与认可。\r\n    以上是小编整理考察的一些分享，希望能对大家有用。不好说哪家好哪家不好，如果有这块的需要的话，多去考察下是可以的。就分享到这里吧!\r\t\t\r\t\t",
+            "Time": 1579017600000,
+            "Tags": 0,
+            "Places": "",
+            "TopicID": 0,
+            "Cover": 0,
+            "TopicCount": 0,
+            "Reduplicate": 0,
+            "BlogID": "",
+            "At": "",
+            "UID": "",
+            "Sex": 0,
+            "Province": "",
+            "City": "",
+            "Level": 0,
+            "VerifiedType": 0,
+            "Original": 1,
+            "QuoteUrl": "",
+            "QuoteBlogID": "",
+            "QuoteContent": "",
+            "QuoteAt": "",
+            "QuoteUID": "",
+            "QuoteAuthor": "",
+            "QuoteImageUrl": "",
+            "QuoteTime": 0,
+            "PortraitUrl": "",
+            "ContentSource": "<article class=\"article-content\">\r\n\t\t\t\t\t\t<p>最近一直在关注国内的特训学校行业，社会各界，家长，还有很多青少年对特训学校的理解看法与认知和评价褒贬不一。而我抱着存在即价值，存在即合理的心理，认真客观的研究分析考察了这些学校。今天就来说说让我印象最深的长沙睿智教育培训学校。</p>\r\n<p>小编认为评价一个学校主要是看;学校环境，师资力量，教育理念，社会口碑。</p>\r\n<p align=\"center\"><img align=\"\" alt=\"C:UsersAdministratorDocumentsWeChat Filescong-cbtx1314FileStorageFile2020-01校园环境校园环境mmexport1534003644501.jpg\" src=\"http://img.danews.cc/upload/images/20200115/ab4691562aeaf309c281c563d2be0c6a.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\"></p>\r\n<p align=\"center\">首先我们来说说学校环境;直接给大家上我前两天现场拍的照片吧(有图有真相。哈哈)</p>\r\n<p align=\"center\"><img align=\"\" alt=\"IMG_20190603_124214\" src=\"http://img.danews.cc/upload/images/20200115/36f0d1376c06804c14d3a491b9ffa7b6.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\"></p>\r\n<p align=\"center\"><img align=\"\" alt=\"IMG_20190603_124051\" src=\"http://img.danews.cc/upload/images/20200115/59dbb7862bf530bf6a6df242a4a1e622.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\"></p>\r\n<p style=\"text-align: center;\">(以上全部为手机现场真是拍摄。)</p>\r\n<p>就学校环境这来来说，长沙睿智教育对我的震撼还是蛮大的，我走访了长沙的几家特训学校，卫生整洁，文化氛围，绿化配置，空间布局等等方面来说，睿智学校应该是这块表现最好的。感觉真的有点像部队的感觉，但是又带点人性，文化的因素。</p>\r\n<p>接下来我们看看师资与理念这块。这块我主要是在网上看了下他们睿智学校的百度百科，毕竟百度百科还是比较官方与权威的。(针对这块小编截了个图)</p>\r\n<p align=\"center\"><img align=\"\" alt=\"\" src=\"http://img.danews.cc/upload/images/20200115/76bb53687b924206e676f45ced360cb6.png\" style=\"border-width: 0px; border-style: solid; width: 500px;\"></p>\r\n<p>文化理念这块是仁者见仁智者见智的事情，我就不多说预评价吧。</p>\r\n<p align=\"center\"><img align=\"\" alt=\"IMG_20190603_123628\" src=\"http://img.danews.cc/upload/images/20200115/19ad89e465dab96d4208d4d7e97dbb34.jpg\" style=\"border-width: 0px; border-style: solid; width: 500px;\">\r\n最后关于评价与口碑这块，我在他们学校的接待室里面拍了张照片，满墙的锦旗。还是有点震撼的。</p>\r\n<p>我从学校出来后，又在网上查了下，整体来说睿智教育培训学校的口碑确实不错，网上没有任何负面的东西，正面积极的评价与认可。</p>\r\n<p>以上是小编整理考察的一些分享，希望能对大家有用。不好说哪家好哪家不好，如果有这块的需要的话，多去考察下是可以的。就分享到这里吧!</p>\r\n\t\t</article>\r\n\t\t",
+            "AccountID": "",
+            "DNSenWords": "",
+            "AddOn": 1579088731000,
+            "WeiboType": "",
+            "ImageUrl": "",
+            "Domain": "",
+            "Account": "",
+            "CrawlerType": 0,
+            "Keyword": "",
+            "Fans": 0
+        }
+    ],
+    "status": 0
+}
+2020-01-15 19:48:59.868 | ERROR    | Get_baidu_article.py:__main__:clean_time:294 - 获取该-http://news.changsha.cn/xctt/html/110187/20200114/65709.shtml的详情页的时间为空
+2020-01-15 19:48:59.884 | ERROR    | Get_baidu_article.py:__main__:new_data:347 - 拼接新的data错误为空
+2020-01-15 19:48:59.885 | INFO     | Get_baidu_article.py:__main__:<module>:408 - 数据--{
+    "errors": {
+        "title": "艺术长沙(三十二) | 流动的永恒③",
+        "time": "",
+        "content": "\n　　    用艺术链接公众——新媒体艺术的形式与发展\r\r\n　　    新媒体艺术是一种复合的艺术形式，它泛指新媒介在艺术领域的表现形式，集中体现为一种跨学科、多媒介、综合处理、重表现、重过程体验的艺术形式。区别于传统的架上绘画、雕塑、甚至现当代装置艺术，新媒体艺术是以数字技术为核心基础所产生的交互式技术应用的艺术形式。\r\n　　    在长沙，一场由国内顶级新媒体艺术团队MOTSE墨子带来的新媒体艺术群展《流动的永恒》正在梅溪湖国际文化艺术中心艺术展展出，这种新媒体艺术的集中展现，对长沙的新媒体艺术发展带来一些有益的启示。\r\n　　    新媒体艺术的审美维度\r\n　　    新媒体不仅仅是在技术应用上的创新，它更多的是为观众提供了一种全新的审美维度：“数字化、虚拟性、交互性、全球性与实时性”与“互动性、虚拟性、观念性、记录与反记录、媒体依赖性、现场感”。\r\n　　    这些审美的体验都是新媒体时代之前的艺术所不能提供的全新观赏体验。此外,新媒体艺术的“造型与展示能力得以大大拓展和丰富,它不仅承续着传统艺术对空间的占有范本,而且还吸纳了影像艺术中运动和声音两个构成要素,也就是说在表现力上增加了听觉感知与时间流动两个新型的审美维度。\r\n　　    我们可以通过梅溪湖艺术馆正在展出的《流动的永恒》新媒体艺术群展中的作品来一一解析。\r\n　　    《流动的永恒》新媒体艺术群展作品：《溶解时间》\r\n    <img src=\"https://res.changsha.cn/assessment/upload/8/document_news/112155/20200114/document_news_content_5e1d94fd409b9_watermark1.png\" class=\"slideImg\">\r\n　　    观者舞动肢体，表盘上的色彩会随之流动。\r\n　　    这个作品是一个巨大的 “时钟”的形态，原本时钟上，时针、分针、秒针的位置，被浓烈的色彩取而代之。\r\n　　    这些流动的色彩，如同颜料一般缓缓的从钟的顶部流淌下来，犹如时间的抽象表现。它的形态与颜色将随着参与者的互动不断演变，当观众进入作品，也正不断地创作出新的作品。时间即刻流逝，也永恒存在。\r\n　　    人的行为意识让时间在发展演变的认知和艺术积淀下再一次融合改造。\r\n　　    互联网就是新媒体艺术的孵化器\r\n　　    回顾新媒体艺术的诞生过程，互联网与之密不可分，互联网就是新媒体艺术的孵化器。\r\n　　    互联网络的兴起,是艺术的传播媒介的又一次伟大的革命,它极大地加速了艺术的平民化过程,世界上任何一个对艺术展品有兴趣的人,在网上只需鼠标一点,就能够在一夜之间游遍全世界又著名的博物馆、美术馆。\r\n　　    从艺术发展史的角度来看，新媒体艺术承接的是机械复制时代的艺术形式(本雅明定义)“比如上世纪的前卫艺术家们如杜尚、达利、皮卡比亚、安迪·沃霍尔、白南准等人的实验电影和录像的美学观念.”而衍生出来的数字化互动艺术形式，它融合了当代性的艺术美学观念，又更加注重互动、体验、沉浸的观赏效果。\r\n　　    《流动的永恒》新媒体艺术群展作品：《四十不惑》\r\n    <img src=\"https://res.changsha.cn/assessment/upload/8/document_news/112155/20200114/document_news_content_5e1d951c65b71_watermark1.png\" class=\"slideImg\">\r\n　　    完全浸入式的镜面空间。\r\n　　    走进《四十不惑》，我们来到的是一个完全浸入式的三角形镜面空间，仿佛乘着时间的电梯我们不断向上，不断地打开不一样的门，不断地进入不同的世界。在平行移动的房间里，我们似乎不再能够分清现实和幻想。\r\n　　    春雷惊蛰，夏忙芒种，秋凝白露，冬降大雪。物之时令，生之轮回。站立于这个镜像的空间，就如无声伫立于时间长河中，永恒的上升下降，时空、生命、时间无限制的循环在此轮番上演。\r\n　　    此时，静静地坐在角落感受时间的循环与消逝，通过画面中的小线索，或许还能从中发现一个小故事。\r\n　　    新媒体艺术的技术更迭\r\n　　    新媒体艺术是技术时代发展而产生的艺术，必然随着技术的进步而不断演变，正在发生的未来中，我们可预见虚拟现实技术AR和增强现实技术AR将得到更广泛的应用,电影与游戏技术将进一步融合,虚拟角色将更加栩栩如生,电子商务的应用将会更加频。\r\n　　    新媒体艺术自身“正逐渐成为艺术的主流形式之一”,“由于受到信息技术和电子技术迅猛发展的影响,新媒体艺术的发展也势在必行,它必将会成为21世纪最有前景的艺术之一“。\r\n　　    国际上知名的新媒体艺术团队TEAMLAB 的作品已经多次进入中国一线城市巡展，引爆全球性关注，而中国原创的新媒体艺术家、艺术团队也在不断创意创新。\r\n　　    正在梅溪湖国际文化艺术中心艺术馆展出的新媒体艺术群展《MOTSE in MICA流动的永恒》，其创作团队——来自深圳的墨子团队就是中国新媒体艺术的前沿力量，他们用两年的时间打磨出17件新媒体原创艺术作品，其形式和技术都达到了国际新媒体艺术高水平，其艺术理念、艺术媒介的多样化为我们中国新媒体艺术发展注入了新的活力和希望，最前卫的艺术场馆与最前沿的新媒体艺术碰撞，让长沙的观众能够与国际前沿的艺术接轨，感受新媒体艺术带来的全新体验世界。(文/狄洋)\r        "
+    }
+}
